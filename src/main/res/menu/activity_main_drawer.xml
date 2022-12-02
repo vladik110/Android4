@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/lec00"
+            android:icon="@drawable/ic_view_list_black_24dp"
+            android:title="@string/lec00" />
+        <item
+            android:id="@+id/lec01"
+            android:icon="@drawable/ic_menu_lecture"
+            android:title="@string/lec01" />
+        <item
+            android:id="@+id/lec11"
+            android:icon="@drawable/ic_menu_lecture"
+            android:title="@string/lec11" />
+        <item
+            android:id="@+id/lec15"
+            android:icon="@drawable/ic_menu_lecture"
+            android:title="@string/lec15" />
+        <item
+            android:id="@+id/lec16"
+            android:icon="@drawable/ic_menu_lecture"
+            android:title="@string/lec16" />
+        <item
+            android:id="@+id/lec17"
+            android:icon="@drawable/ic_menu_lecture"
+            android:title="@string/lec17" />
+
+
+    </group>
+
+</menu>

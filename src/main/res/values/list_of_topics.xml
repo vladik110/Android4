@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Содержание</string>
+    <string name="lec01">01. Слон</string>
+    <string name="lec11">02. Жираф</string>
+    <string name="lec15">03. Зебра</string>
+    <string name="lec16">04. Лев</string>
+    <string name="lec17">05. Носорог</string>
+</resources>
